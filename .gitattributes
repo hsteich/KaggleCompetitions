@@ -1,0 +1,2 @@
+/Zillow/Data filter=lfs diff=lfs merge=lfs -text
+/Zillow/Data/*.csv filter=lfs diff=lfs merge=lfs -text
